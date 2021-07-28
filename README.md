@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManiMaran001
+- 👋 Hi, I’m @ManiMaran
 - 👀 I’m interested in Software developer
 - 🌱 I’m currently learning Javascript python web scraping
 - 💞️ I’m looking to collaborate on join to company
