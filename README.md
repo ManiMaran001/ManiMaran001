@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ManiMaran
-- 👀 I’m interested in Software developer
-- 🌱 I’m currently learning Javascript and Reactjs
-- 💞️ I’m looking to collaborate on join to company
+- 👀 I’m interested in developing web application
+- 🌱 I’m currently developing application in Javascript and Reactjs
 - 📫 How to reach me ...
 
